@@ -1,0 +1,15 @@
+import React, { Fragment } from 'react'
+import BreadCrum from '../../Layouts/BreadCrum'
+
+const Calendar = () => {
+  return (
+    <Fragment>
+        <BreadCrum data="Calendar" />
+        <h1>
+        Calendar Page
+        </h1>
+    </Fragment>
+  )
+}
+
+export default Calendar

@@ -1,0 +1,93 @@
+/**
+ * @Author: Shubham S11
+ * @Date: 07/14/2023
+ * @PageName: Registration form
+ * @Description: CSS for Registeration form.
+ */
+ .register-form {
+    position: relative;
+    top: 86px;
+    width: 95%;
+    height: 758px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 11px 0px 25px #0000000D;
+    border-radius: 4px;
+    opacity: 1;
+    margin: auto;
+}
+
+.addUser-form{
+    position: relative;
+    /* top: 162px; */
+    left: 295px;
+    width: fit-content;
+    height: 690px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 11px 0px 25px #0000000D;
+    border-radius: 4px;
+    opacity: 1;
+    }
+
+.Registration-logo{
+position:relative;
+top: 43px;
+left: 573px;
+width: 320px;
+height: 106px;
+opacity: 1;
+}
+.Registration-logo p{   
+position: relative;
+top: 1px;
+left: 75px;
+width: fit-content;
+height: 36px;
+text-align: center;
+font: normal normal normal 24px/36px Oswald;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.registrntion-submit{
+    position: relative;
+    top: 170px;
+    left: 510px;
+    width: 469px;
+    height: 49px;
+    background: #0076BE 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+
+}
+ .regitrstion-login{
+    position: relative;
+    top: 194px;
+    left: 544px;
+}
+.register-input{
+    position: relative;
+    top: 120px;
+}
+
+.register-input span{
+    font-family: Roboto, Regular;
+    color: #9D9D9D;
+    font-size: 15px;
+}
+.register-input label{
+font: normal normal normal 16px/21px Roboto;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.register-input-mask{
+    position: relative;
+    left: 2px;
+    width: 319px;
+    height: 38px;
+    border-color: #dee2e6;
+    border-radius: 7px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 11px 0px 25px #0000000D;
+    opacity: 1;
+}

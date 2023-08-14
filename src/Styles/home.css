@@ -1,0 +1,13 @@
+#home-card{
+    margin-left: 300px;
+    width: 1045px;
+    height: 520px;
+}
+
+.card-header{
+     background-color:rgb(238, 235, 235);
+}
+
+.col{
+    color:rgb(39, 88, 60);
+}

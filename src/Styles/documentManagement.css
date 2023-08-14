@@ -1,0 +1,20 @@
+.ux-round{
+    border-radius: 10px 10px 0 0;
+    border: 1px solid #80808021;
+    background-color: #7db4cb2e;
+}
+.fs-14{
+    font-size: 12px;
+    white-space: nowrap;
+    padding: 6px 20px;
+}
+.bg-gray{
+    background-color: #F3F3F3;
+}
+.ux-dropdown{
+    left: 0px !important;
+}
+.fs-12{
+    font-size: 12px;
+}
+
